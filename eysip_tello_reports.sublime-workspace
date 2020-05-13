@@ -15,6 +15,66 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "conf.py",
+			"settings":
+			{
+				"buffer_size": 2162,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "daily_reports/d_0_rep.rst",
+			"settings":
+			{
+				"buffer_size": 583,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/conf.py",
+			"settings":
+			{
+				"buffer_size": 2024,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/E3-112M/Documents/GitHub/vrep_progress/vrep_docs/conf.py",
+			"settings":
+			{
+				"buffer_size": 2118,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.rst",
+			"settings":
+			{
+				"buffer_size": 564,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "week_1/week_1_overview.rst",
+			"settings":
+			{
+				"buffer_size": 510,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "week_1/week_1_report.rst",
+			"settings":
+			{
+				"buffer_size": 217,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -44,11 +104,11 @@
 		"selected_items":
 		[
 			[
-				"install",
+				"insta",
 				"Package Control: Install Package"
 			],
 			[
-				"insta",
+				"install",
 				"Package Control: Install Package"
 			],
 			[
@@ -76,10 +136,23 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/E3-112M/Documents/GitHub/eysip_tello_reports"
+		"/C/Users/E3-112M/Documents/GitHub/eysip_tello_reports",
+		"/C/Users/E3-112M/Documents/GitHub/eysip_tello_reports/daily_reports",
+		"/C/Users/E3-112M/Documents/GitHub/eysip_tello_reports/week_1"
 	],
 	"file_history":
 	[
+		"/C/Users/E3-112M/Documents/GitHub/eysip_tello_reports/week_1/week_1.rst",
+		"/C/Users/E3-112M/Documents/GitHub/eysip_tello_reports/daily_reports/d_0_rep.rst",
+		"/C/Users/E3-112M/Documents/GitHub/eysip_tello_reports/research_logs/d_0_log.rst",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/daily_research/sq1_daily_res/sq1_d0_res.rst",
+		"/C/Users/E3-112M/Documents/GitHub/eysip_tello_reports/week_1/week_1_report.rst",
+		"/C/Users/E3-112M/Documents/GitHub/eysip_tello_reports/week_1/week_1_overview.rst",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/daily_reports/daily_rep.rst",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/daily_reports/sq1_daily_rep/sq1_d0_rep.rst",
+		"/C/Users/E3-112M/Downloads/Graph.cpp",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/index.rst",
+		"/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/conf.py",
 		"/C/Users/E3-112M/Documents/svg_arenas/ca_only_grid.svg",
 		"/C/Users/E3-112M/Documents/GitHub/V-REP_auto_eval/Scenes/Line_follower.cpp",
 		"/C/Users/E3-112M/Desktop/first_jekyll/blog.html",
@@ -196,18 +269,7 @@
 		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team131/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
 		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team131/line_follow_path_plan/line_follow_path_plan/simulation.h",
 		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team780/LINE_FOLLOW_PATH_PLAN/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
-		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team780/LINE_FOLLOW_PATH_PLAN/line_follow_path_plan/line_follow_path_plan/firebird_simulation.h",
-		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team322/line_follow_path_plan/line_follow_path_plan/simulation.h",
-		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team780/line_follow_path_plan.c",
-		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team322/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
-		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team222/line_follow_path_plan/line_follow_path_plan/firebird_simulation.h",
-		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team222/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
-		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team220/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
-		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team220/line_follow_path_plan/line_follow_path_plan/firebird_simulation.h",
-		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team1619/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.h",
-		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team599/line_follow_path_plan/line_follow_path_plan/week4_simulation.h",
-		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team1619/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
-		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team599/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c"
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team780/LINE_FOLLOW_PATH_PLAN/line_follow_path_plan/line_follow_path_plan/firebird_simulation.h"
 	],
 	"find":
 	{
@@ -242,8 +304,237 @@
 	"groups":
 	[
 		{
+			"selected": 4,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "conf.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2042,
+								2042
+							]
+						],
+						"settings":
+						{
+							"SL.33.region_keys":
+							[
+								"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.flake8.Highlights.|69e91a030fe269004edc8f564d4ca80f56ef322f719c0e4aeb28ff87b00c3b04|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|b2579ed7f2c343f13bb2a1119bb8cd3a0a8c87a3f3b5ae69c9d81e405683ef69|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|22f0561a4fb5559a150bfa216413eb21c9fd88d5a2ab1b7395ac82c9340c5d8b|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|1ad6a6aa903b5420bc2a583d1a6854056cbdf6b61dfbcb1b9b1d4ce61b4d0e4b|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 541.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "daily_reports/d_0_rep.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								574,
+								574
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/E3-112M/Documents/GitHub/vrep_eysip_reports/conf.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.54.region_keys":
+							[
+								"SL.flake8.Highlights.|81e04ece58afe26a827b834bcc4f7accc391844cabfcec84b9c03da2babee8e9|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|e3524a7205b49fda1122ed5450647aaf128c77bba7343ef05a672bd21a5c331f|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|00372686ee695fe98882a26bccc039db933713cf854063ade5559dec9f2dea4c|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/E3-112M/Documents/GitHub/vrep_progress/vrep_docs/conf.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2096,
+								1995
+							]
+						],
+						"settings":
+						{
+							"SL.55.region_keys":
+							[
+								"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.flake8.Highlights.|99b4d53b1733f04ce82f7a0ebe05f69956486455396771635f1636237d7c5c2c|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|a882e2ff5bbcb5bf5bfc24cff116de42454f34bedee6ee7801fb40356b28a0d6|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|944839d01927873a129d62ca7a784f23ce8ffe3665555a2fea7e0a2164ec4cdb|region.yellowish markup.warning.sublime_linter|32",
+								"SL.flake8.Highlights.|7bd525216ed9ff8073be9fa6c8e98b9d2ff95c51d29645c4dea9762788705fe1|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"SL.35.region_keys":
+							[
+							],
+							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "week_1/week_1_overview.rst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								404,
+								404
+							]
+						],
+						"settings":
+						{
+							"SL.60.region_keys":
+							[
+							],
+							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "week_1/week_1_report.rst",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],

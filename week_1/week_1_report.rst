@@ -1,10 +1,6 @@
 =============
 Week 1 report
 =============
-Title of the report
-Authors
-Date
-=============
 
 
 To be filled by interns
