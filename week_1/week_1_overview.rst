@@ -10,6 +10,8 @@ This section will be filled by the mentors and will mainly list their expectatio
 
 It will also contain the links to the daily reports of the week
 
+It will contain a link to the 
+
 .. toctree::
    :maxdepth: 2
    :caption: Daily and Weekly Report:
@@ -17,4 +19,3 @@ It will also contain the links to the daily reports of the week
 
    ../daily_reports/d_[0-6]*
    ../research_logs/d_[0-6]*
-   week_1_report
