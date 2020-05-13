@@ -1,0 +1,340 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dire",
+				"directory_c"
+			],
+			[
+				"c",
+				"c_filepath"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/E3-112M/Documents/GitHub/eysip_tello_reports"
+	],
+	"file_history":
+	[
+		"/C/Users/E3-112M/Documents/svg_arenas/ca_only_grid.svg",
+		"/C/Users/E3-112M/Documents/GitHub/V-REP_auto_eval/Scenes/Line_follower.cpp",
+		"/C/Users/E3-112M/Desktop/first_jekyll/blog.html",
+		"/C/Users/E3-112M/Desktop/first_jekyll/Gemfile",
+		"/C/Users/E3-112M/Desktop/first_jekyll/_layouts/post.html",
+		"/C/Users/E3-112M/Downloads/ABBYY_FineReader_15.0.110.1875_Corporate_Multilingual +ABBYY_FineReader_Enterprise/ABBYY FineReader 15.0.110.1875 Corporate Multilingual/Crack/Licenses/T1rial.ABBYY.License",
+		"/C/Users/E3-112M/Desktop/first_jekyll/index.html",
+		"/C/Users/E3-112M/Desktop/first_jekyll/_includes/navigation.html",
+		"/C/Users/E3-112M/Desktop/first_jekyll/assets/css/styles.scss",
+		"/C/Users/E3-112M/Desktop/first_jekyll/_sass/main.scss",
+		"/C/Users/E3-112M/Desktop/first_jekyll/_data/navigation.yml",
+		"/C/Users/E3-112M/Desktop/first_jekyll/_config.yml",
+		"/C/Users/E3-112M/Desktop/first_jekyll/_authors/jill.md",
+		"/C/Users/E3-112M/Desktop/first_jekyll/_authors/ted.md",
+		"/C/Users/E3-112M/Desktop/first_jekyll/staff.html",
+		"/C/Users/E3-112M/Desktop/first_jekyll/_layouts/author.html",
+		"/C/Users/E3-112M/Desktop/first_jekyll/_posts/2018-08-21-apples.md",
+		"/C/Users/E3-112M/Desktop/first_jekyll/_posts/2018-08-22-kiwifruit.md",
+		"/C/Users/E3-112M/Desktop/first_jekyll/_layouts/default.html",
+		"/C/Users/E3-112M/Desktop/first_jekyll/_posts/2018-08-20-bananas.md",
+		"/C/Users/E3-112M/Desktop/first_jekyll/_posts/2020-04-22-8.3_Cummins_Combine.md",
+		"/C/Users/E3-112M/Documents/bootcamp_prop.txt",
+		"/C/Users/E3-112M/Downloads/ABBYY_FineReader_15.0.110.1875_Corporate_Multilingual +ABBYY_FineReader_Enterprise/ABBYY FineReader 15.0.110.1875 Corporate Multilingual/Crack/Licenses/Trial.ABBYY.License",
+		"/C/Users/E3-112M/Desktop/first_jekyll/about.md",
+		"/C/Users/E3-112M/Downloads/ABBYY_FineReader_15.0.110.1875_Corporate_Multilingual +ABBYY_FineReader_Enterprise/ABBYY FineReader 15.0.110.1875 Corporate Multilingual/Crack/Licenses/ABBYY.register",
+		"/C/Users/E3-112M/Desktop/first_jekyll/assets/css/styles.cc",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1381/Line Following with Path Planning/Line Following with Path Planning/simulation.h",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1697/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Gemfile",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1697/line_follow_path_plan/line_follow_path_plan/week4_simulation.h",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1650/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team817/line_follow_path_plan/line_follow_path_plan/week4_simulation.h",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team817/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team780/LINE_FOLLOW_PATH_PLAN/line_follow_path_plan/line_follow_path_plan/firebird_simulation.h",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team780/LINE_FOLLOW_PATH_PLAN/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team646/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team646/line_follow_path_plan/line_follow_path_plan/week4_simulation.h",
+		"/C/Users/E3-112M/Downloads/test_cpp.py",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team35/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team35/line_follow_path_plan/line_follow_path_plan/week4_simulation.h",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1465/line_follow_path_plan/firebird_simulation.h",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team293/line_follow_path_plan/week4_simulation.h",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team293/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1465/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team912/line_follower/main.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team912/line_follower/simu.h",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/mooc_Week4/team1815/Week4_Hints/CA_2/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/mooc_Week4/team1799/Week4_Hints/CA_2/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team449/line_follow_path_plan/line_follow_path_plan/week4_simulation.h",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team449/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1462/line_follow_path_plan/line_follow_path_plan/week4_simulation.h",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1462/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team900/line_follow_path_plan/line_follow_path_plan/firebird_simulation.h",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team627/line_follow_path_plan/line_follow_path_plan/week4_simulation.h",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team627/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team49/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan/firebird_simulation.h",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team49/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan/line_follower_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1381/Line Following with Path Planning/Line Following with Path Planning/motor.h",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1381/Line Following with Path Planning/Line Following with Path Planning/sensors.h",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team881/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_c_files/team84/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/mooc_Week4/team578/5_6071205421316571330.c",
+		"/C/Users/E3-112M/Downloads/test.py",
+		"/C/Users/E3-112M/Desktop/ca2_c_files.py",
+		"/C/Users/E3-112M/Desktop/ca2_unzip_restructure.py",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/mooc_Week4/team76/ca2 line following.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1054/line_following/line_following/line_following.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1640/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1896/line_follower_path_plan/line_follower_path_plan/line_follower_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1484/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1018/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1751/line_follow_paths/line_follow_paths/main.c",
+		"/C/Users/E3-112M/Downloads/mooc_Week4-20200415T050329Z-001/CA_2_unzipped/team1006/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/unecrypted_res.json",
+		"/C/Users/E3-112M/Downloads/1221#0_CB#1221_Task_1.1/CB#1221_Task_1.1/Task1.1.json",
+		"/C/Users/E3-112M/Downloads/2106#0_2106_5/scheduler.py",
+		"/C/Users/E3-112M/Downloads/2106#0_2106_5/position_hold.py",
+		"/C/Users/E3-112M/Downloads/670#0_670_5/scripts/beacon_detector.py",
+		"/C/Users/E3-112M/Downloads/670#0_670_5/scripts/scheduler.py",
+		"/C/Users/E3-112M/Downloads/670#0_670_5/scripts/roi_detector.py",
+		"/C/Users/E3-112M/Downloads/670#0_670_5/scripts/position_hold.py",
+		"/C/Users/E3-112M/Downloads/405#0_405_5/scripts/beacon_detector.py",
+		"/C/Users/E3-112M/Downloads/405#0_405_5/scripts/position_hold.py",
+		"/C/Users/E3-112M/Downloads/4438#0_4438_5/scripts/beacon_detector.py",
+		"/C/Users/E3-112M/Downloads/4346#0_4346_5/scripts/scheduler.py",
+		"/C/Users/E3-112M/Downloads/4438#0_4438_5/scripts/position_hold.py",
+		"/C/Users/E3-112M/Downloads/903#0_SR_903_5/scripts/beacon_detector.py",
+		"/C/Users/E3-112M/Downloads/4346#0_4346_5/scripts/beacon_detector.py",
+		"/C/Users/E3-112M/Downloads/4531#0_4531_5/scripts/beacon_detector.py",
+		"/C/Users/E3-112M/Downloads/4531#0_4531_5/scripts/position_hold.py",
+		"/C/Users/E3-112M/Downloads/4531#0_4531_5/scripts/scheduler.py",
+		"/C/Users/E3-112M/Downloads/2161#0_2161_5/beacon_detector.py",
+		"/C/Users/E3-112M/Downloads/2161#0_2161_5/scheduler.py",
+		"/C/Users/E3-112M/Downloads/2161#0_2161_5/position_hold.py",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team87/line_follow_path.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team1381/Line Following with Path Planning/Line Following with Path Planning/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team1381/Line Following with Path Planning/Line Following with Path Planning/simulation.h",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team1381/Line Following with Path Planning/Line Following with Path Planning/motor.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team87/line_follow_path_plan/line_follow_path_plan/firebird.h",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team87/line_follow_path_plan/line_follow_path_plan/line_follow_path.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team627/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team65/line_follow_path_plan/line_follow_path_plan/firebird_simulation.h",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team65/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team814/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team499/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team499/line_follow_path_plan/line_follow_path_plan/week4_simulation.h",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team627/line_follow_path_plan/line_follow_path_plan/firebird_simulation.h",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team814/line_follow_path_plan/line_follow_path_plan/week4_simulation.h",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team912/week4_2/fun.h",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team912/week4_2/main.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team912/week4_2/CFile1.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team912/week4_2/firebird_simulation.h",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/_team276/line_follow_paths/line_follow_paths/line_follow_path.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team131/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team131/line_follow_path_plan/line_follow_path_plan/simulation.h",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team780/LINE_FOLLOW_PATH_PLAN/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team780/LINE_FOLLOW_PATH_PLAN/line_follow_path_plan/line_follow_path_plan/firebird_simulation.h",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team322/line_follow_path_plan/line_follow_path_plan/simulation.h",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team780/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team322/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team222/line_follow_path_plan/line_follow_path_plan/firebird_simulation.h",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team222/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team220/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team220/line_follow_path_plan/line_follow_path_plan/firebird_simulation.h",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team1619/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.h",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team599/line_follow_path_plan/line_follow_path_plan/week4_simulation.h",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team1619/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c",
+		"/C/Users/E3-112M/Downloads/ps_2-20200402T064924Z-001/ps_2_restrucutred/team599/line_follow_path_plan/line_follow_path_plan/line_follow_path_plan.c"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 619.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 138.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "eysip_tello_reports.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
